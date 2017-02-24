@@ -1,0 +1,19 @@
+﻿Build started 9/20/2012 7:55:32 PM.
+     1>Project "E:\COLLEGE\Programing 1\Homework Programs\EscobarAsst05\week5\week5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\week5.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt example1.cpp week5.cpp
+         week5.cpp
+     1>e:\college\programing 1\homework programs\escobarasst05\week5\week5.cpp(20): error C2143: syntax error : missing ';' before ')'
+     1>e:\college\programing 1\homework programs\escobarasst05\week5\week5.cpp(22): error C2065: 'Isum' : undeclared identifier
+     1>e:\college\programing 1\homework programs\escobarasst05\week5\week5.cpp(24): error C2065: 'iValue' : undeclared identifier
+     1>e:\college\programing 1\homework programs\escobarasst05\week5\week5.cpp(27): fatal error C1075: end of file found before the left brace '{' at 'e:\college\programing 1\homework programs\escobarasst05\week5\week5.cpp(12)' was matched
+         example1.cpp
+     1>e:\college\programing 1\homework programs\escobarasst05\week5\example1.cpp(26): fatal error C1075: end of file found before the left brace '{' at 'e:\college\programing 1\homework programs\escobarasst05\week5\example1.cpp(4)' was matched
+         Generating Code...
+     1>Done Building Project "E:\COLLEGE\Programing 1\Homework Programs\EscobarAsst05\week5\week5.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.44

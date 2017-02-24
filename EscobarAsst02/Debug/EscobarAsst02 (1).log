@@ -1,0 +1,700 @@
+﻿Build started 8/28/2012 4:22:12 PM.
+     1>Project "C:\Users\WIN7\Dropbox\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst02\EscobarAsst02.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\EscobarAsst02.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EscobarAsst02.cpp
+         EscobarAsst02.cpp
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2146: syntax error : missing ';' before identifier 'cin'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(31): error C2676: binary '<<' : 'std::basic_istream<_Elem,_Traits>' does not define this operator or a conversion to a type acceptable to the predefined operator
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2146: syntax error : missing ';' before identifier 'cin'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(32): error C2676: binary '<<' : 'std::basic_istream<_Elem,_Traits>' does not define this operator or a conversion to a type acceptable to the predefined operator
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(33): error C2146: syntax error : missing ';' before identifier 'cin'
+     1>c:\users\win7\dropbox\google drive\college\fall 2012\programing 1\homework programs\escobarasst02\escobarasst02.cpp(33): fatal error C1003: error count exceeds 100; stopping compilation
+     1>Done Building Project "C:\Users\WIN7\Dropbox\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst02\EscobarAsst02.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.26

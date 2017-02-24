@@ -1,0 +1,8 @@
+﻿'EscobarAsst02.exe': Loaded 'C:\Users\WIN7\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\Debug\EscobarAsst02.exe', Symbols loaded.
+'EscobarAsst02.exe': Loaded 'C:\Windows\System32\ntdll.dll', Cannot find or open the PDB file
+'EscobarAsst02.exe': Loaded 'C:\Windows\System32\kernel32.dll', Cannot find or open the PDB file
+'EscobarAsst02.exe': Loaded 'C:\Windows\System32\KernelBase.dll', Cannot find or open the PDB file
+'EscobarAsst02.exe': Loaded 'C:\Windows\System32\msvcp100d.dll', Symbols loaded.
+'EscobarAsst02.exe': Loaded 'C:\Windows\System32\msvcr100d.dll', Symbols loaded.
+'EscobarAsst02.exe': Loaded 'C:\Windows\System32\apphelp.dll', Cannot find or open the PDB file
+The program '[5452] EscobarAsst02.exe: Native' has exited with code 0 (0x0).

@@ -1,0 +1,28 @@
+﻿Build started 9/19/2012 11:14:05 PM.
+     1>Project "C:\Users\WIN7\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst04\Arquimedes\Arquimedes.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Arquimedes.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Arquimedes.cpp
+         Arquimedes.cpp
+     1>c:\users\win7\google drive\college\fall 2012\programing 1\homework programs\escobarasst04\arquimedes\arquimedes.cpp(31): warning C4101: 'dLiters' : unreferenced local variable
+     1>c:\users\win7\google drive\college\fall 2012\programing 1\homework programs\escobarasst04\arquimedes\arquimedes.cpp(31): warning C4101: 'dOunces' : unreferenced local variable
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WIN7\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst04\Arquimedes\Debug\Arquimedes.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Arquimedes.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\WIN7\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst04\Arquimedes\Debug\Arquimedes.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WIN7\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst04\Arquimedes\Debug\Arquimedes.lib" /MACHINE:X86 Debug\Arquimedes.exe.embed.manifest.res
+         Debug\Arquimedes.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Arquimedes.exe.embed.manifest" /manifest Debug\Arquimedes.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Arquimedes.vcxproj -> C:\Users\WIN7\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst04\Arquimedes\Debug\Arquimedes.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Arquimedes.unsuccessfulbuild".
+         Touching "Debug\Arquimedes.lastbuildstate".
+     1>Done Building Project "C:\Users\WIN7\Google Drive\COLLEGE\Fall 2012\Programing 1\Homework Programs\EscobarAsst04\Arquimedes\Arquimedes.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.68
